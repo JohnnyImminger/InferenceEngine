@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="InferenceEngine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InferenceEngine_jar</output-path>
+    <root id="archive" name="InferenceEngine.jar">
+      <element id="module-output" name="InferenceEngine" />
+    </root>
+  </artifact>
+</component>
